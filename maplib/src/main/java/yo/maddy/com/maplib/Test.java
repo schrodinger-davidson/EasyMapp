@@ -29,5 +29,8 @@ public class Test {
     private void mySecter(){
 
         SecretClass secretClass = new SecretClass();
+
+
+
     }
 }
