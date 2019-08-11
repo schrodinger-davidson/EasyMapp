@@ -23,4 +23,11 @@ public class Test {
         }
         return result/numbers.size();
     }
+
+
+
+    private void mySecter(){
+
+        SecretClass secretClass = new SecretClass();
+    }
 }
